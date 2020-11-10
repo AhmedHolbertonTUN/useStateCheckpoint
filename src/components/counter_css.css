@@ -1,0 +1,20 @@
+.Mybutton {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .container {
+    display: flex;
+    width: 250px;
+    margin: auto auto;
+    justify-content: space-between;
+  }
